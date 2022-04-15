@@ -1,2 +1,4 @@
 Source file of Hooli Co 
+<<<<<<< HEAD
 Feature Software file.
+>>>>>>> kane
